@@ -1,0 +1,84 @@
+{
+  "basics": {
+    "name": "Oviya",
+    "label": "C",
+    "picture": "",
+    "email": "oviya200@gmail.com",
+    "phone": "8526223732",
+    "degree": "B.E-EEE",
+    "website": "Nil",
+    "summary": "A one-sentence to one-paragraph overview text. Do not include any line-breaks.",
+    "location": {
+      "address": "Tiruppur",
+      "postalCode": "641603",
+      "city": "Tiruppur",
+      "countryCode": "INDIA",
+      "region": "TAMILNADU"
+    },
+    "profiles": [
+      {
+        "network": "A social media or other profile that you would like to include (e.g. LinkedIn, Twitter)",
+        "username": "ammuoviya",
+        "url": "github.com/ammuoviya"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "FRESHER",
+      "position": "SOFTWARE DEVELOPER",
+      "website": "NIL",
+      "summary": "A one-sentence to one-paragraph summary of this employer or position",
+      "highlights": [
+        "Bullet-point list items that you would like to include along with (or instead of) a summary paragraph."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "ROTRACT CLUB - TECHIES",
+      "position": "SOVERIEGN",
+      "website": "NIL",
+      "startDate"2018",
+      "endDate": "2021",
+      "summary": "A one-sentence to one-paragraph summary of this employer or position",
+      "highlights": [
+        "Bullet-point list items that you would like to include along with (or instead of) a summary paragraph."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "TAMILNADU COLLEGE OF ENGINEERING",
+      "area": "EEE",
+      "studyType": "REGULAR",
+      "startDate": "2017-07-14",
+      "endDate": "2021-05-27",
+      "gpa": "8.5",
+      "courses": [
+        "PCB DESIGNING, ENTERPRENERSHIP"
+      ]
+    }
+  ],
+
+  "skills": [
+    {
+      "name": "PYTHON,JAVA,OOPS,JAVASCRIPT",
+      "level": "Good",
+    }
+  ],
+  "languages": [
+    {
+      "language": "TAMIL,ENGLISH",
+      "fluency": "BOTH"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Reading books",
+      "keywords": [
+        "Ethical books"
+      ]
+    }
+  ]
+}
